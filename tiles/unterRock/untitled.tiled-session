@@ -1,0 +1,142 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "/Users/assel/Documents/GitHub/unterRock/floortileset.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "/Users/assel/Documents/GitHub/unterRock/main.json": {
+            "scale": 2,
+            "selectedLayer": -1,
+            "viewCenter": {
+                "x": 1379.75,
+                "y": 2543.75
+            }
+        },
+        "/Users/assel/Documents/GitHub/unterRock/main.json#14_tresen": {
+            "scaleInDock": 2
+        },
+        "/Users/assel/Documents/GitHub/unterRock/main.json#Interior": {
+            "scaleInDock": 2
+        },
+        "/Users/assel/Documents/GitHub/unterRock/main.json#active-cave": {
+            "scaleInDock": 2
+        },
+        "/Users/assel/Documents/GitHub/unterRock/main.json#ak&#039;s_assets": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "/Users/assel/Documents/GitHub/unterRock/main.json#build_atlas": {
+            "scaleInDock": 2
+        },
+        "/Users/assel/Documents/GitHub/unterRock/main.json#coco-items": {
+            "scaleInDock": 2
+        },
+        "/Users/assel/Documents/GitHub/unterRock/main.json#house_inside": {
+            "scaleInDock": 2
+        },
+        "/Users/assel/Documents/GitHub/unterRock/main.json#mirrors": {
+            "scaleInDock": 2
+        },
+        "/Users/assel/Documents/GitHub/unterRock/main.json#obj_misk_atlas": {
+            "scaleInDock": 2
+        },
+        "/Users/assel/Documents/GitHub/unterRock/main.json#tiles_png_deco_rc3-mullana-objects": {
+            "scaleInDock": 2
+        },
+        "/Users/assel/Documents/GitHub/unterRock/main.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 2
+        },
+        "/Users/assel/Documents/GitHub/unterRock/main.json#upholstery": {
+            "scaleInDock": 2
+        },
+        "/Users/assel/Documents/GitHub/unterRock/main.json#upholstery Kopie": {
+            "scaleInDock": 2
+        },
+        "/Users/assel/Documents/GitHub/unterRock/map.json": {
+            "scale": 0.75,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 914,
+                "y": 308.6666666666667
+            }
+        },
+        "/Users/assel/Documents/GitHub/unterRock/map.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "/Users/assel/Documents/GitHub/unterRock/map.json#office_1": {
+            "scaleInDock": 1
+        },
+        "/Users/assel/Documents/GitHub/unterRock/unterRock.json": {
+            "scale": 2,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1297.75,
+                "y": 2331.75
+            }
+        },
+        "/Users/assel/Documents/GitHub/unterRock/unterRock.json#14_tresen": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "/Users/assel/Documents/GitHub/unterRock/unterRock.json#Interior": {
+            "scaleInDock": 2
+        },
+        "/Users/assel/Documents/GitHub/unterRock/unterRock.json#active-cave": {
+            "scaleInDock": 2
+        },
+        "/Users/assel/Documents/GitHub/unterRock/unterRock.json#ak&#039;s_assets": {
+            "scaleInDock": 2
+        },
+        "/Users/assel/Documents/GitHub/unterRock/unterRock.json#coco-items": {
+            "scaleInDock": 2
+        },
+        "/Users/assel/Documents/GitHub/unterRock/unterRock.json#house_inside": {
+            "scaleInDock": 2
+        },
+        "/Users/assel/Documents/GitHub/unterRock/unterRock.json#mirrors": {
+            "scaleInDock": 2
+        },
+        "/Users/assel/Documents/GitHub/unterRock/unterRock.json#obj_misk_atlas": {
+            "scaleInDock": 2
+        },
+        "/Users/assel/Documents/GitHub/unterRock/unterRock.json#tiles_png_deco_rc3-mullana-objects": {
+            "scaleInDock": 2
+        },
+        "/Users/assel/Documents/GitHub/unterRock/unterRock.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "/Users/assel/Documents/GitHub/unterRock/unterRock.json#upholstery": {
+            "scaleInDock": 2
+        },
+        "/Users/assel/Documents/GitHub/unterRock/unterRock.json#upholstery Kopie": {
+            "scaleInDock": 2
+        }
+    },
+    "last.imagePath": "/Users/assel/Seafile/Plommhammers/tiled/CCC Stuff",
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+    ],
+    "project": "untitled.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "/Users/assel/Documents/GitHub/unterRock/floortileset.tsx",
+        "/Users/assel/Documents/GitHub/unterRock/map.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 0
+}
