@@ -211,7 +211,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"\/main.json"
+                         "value":".\/main.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -241,7 +241,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.world.in-panik.de\/_\/global\/maps.world.in-panik.de\/in-berlin\/main.json"
+                         "value":"https:..\/in-berlin\/main.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
